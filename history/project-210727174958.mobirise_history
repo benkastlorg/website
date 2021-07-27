@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "BenKastl V4",
+    "name": "BenKastl V3",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -69,7 +69,7 @@
     ],
     "imageResize": true,
     "uniqCompNum": 79,
-    "versionPublish": "5.3.10",
+    "versionPublish": "5.3.0",
     "screenshot": "screenshot.png",
     "chatbutton": {
       "phone": "+34634443303",
@@ -97,8 +97,8 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "modified": "2021-07-27T15:49:58.577Z",
-    "mbrsiteDomain": "wrsropxl9r"
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
